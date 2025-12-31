@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import { readFileSync } from 'fs';
